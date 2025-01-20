@@ -31,7 +31,7 @@ This project is a **Movie Tracker Application** built using Flask. It allows use
        <br>
         <p align='center'>
           <a>
-            <img src='https://github.com/user-attachments/assets/b81f7b54-5a97-4ecd-8bcb-046d8892da85' width="600">
+            <img src='https://github.com/user-attachments/assets/25f804d1-05ca-4c8b-a797-ab96d02cd1f9' width="600">
           </a>
         </p>
         <br>
@@ -39,7 +39,7 @@ This project is a **Movie Tracker Application** built using Flask. It allows use
   <br>
     <p align='center'>
       <a>
-        <img src='https://github.com/user-attachments/assets/e581ccda-1d99-4052-ae86-f1844aa0e5d8' width="600">
+        <img src='https://github.com/user-attachments/assets/27ed96fa-1184-43f8-bc3e-d4eff1a77aa2' width="600">
       </a>
     </p>
     <br>
