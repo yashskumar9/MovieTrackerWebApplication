@@ -1,7 +1,14 @@
-# Movie Tracker Application
+![MovieTracker](https://github.com/user-attachments/assets/b8635372-24b8-4e9d-bafe-d9d53db17664)# Movie Tracker Application
 
 ## Project Overview
 This project is a **Movie Tracker Application** built using Flask. It allows users to create a personal list of their top movies by noting down details such as poster image, title, release year, description, user rating, movie ranking, and personal review. The application integrates with an external movie database API to fetch movie details and poster images dynamically, providing a seamless user experience.
+      <br>
+      <p align='center'>
+        <a>
+          <img src='https://github.com/user-attachments/assets/07e9cbb4-4253-461e-98e4-f5b5420c03f1' width="600">
+        </a>
+      </p>
+      <br>
 
 ---
 
